@@ -1,0 +1,2 @@
+Training error:- 0.185
+Test error:- 0.175
